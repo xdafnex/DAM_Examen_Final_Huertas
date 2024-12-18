@@ -2,4 +2,11 @@
     <string name="app_name">DAM_Examen_Final_Huertas</string>
     <string name="btningresar">Ingresar</string>
     <string name="btngenerar">Generar tu clave</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi perfil</string>
 </resources>
