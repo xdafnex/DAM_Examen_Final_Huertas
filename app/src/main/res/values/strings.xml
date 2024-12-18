@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_Huertas</string>
+    <string name="btningresar">Ingresar</string>
+    <string name="btngenerar">Generar tu clave</string>
+</resources>
